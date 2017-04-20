@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCameraApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="distance">distance will appear here</string>
+    <string name="camera_button">&#xf030; Take Picture</string>
+    <string name="title_activity_calculate">CalculateActivity</string>
+</resources>

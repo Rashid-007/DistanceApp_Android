@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:gravity="right"
+
+    android:weightSum="1">
+
+    <requestFocus
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.50" />
+
+    <Button
+        android:layout_width="599dp"
+        android:layout_height="wrap_content"
+        android:text="Capture"
+        android:id="@+id/capButton"
+        android:layout_gravity="right|bottom" />
+
+    <View android:layout_width="24dp"
+        android:layout_height="23dp"
+        android:background="@drawable/circle"
+        android:layout_gravity="center" />
+
+    <EditText
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hh"
+        android:layout_gravity="left|center_vertical" /><![CDATA[
+
+
+
+
+
+    />
+
+
+
+
+
+
+
+]]>
+</FrameLayout>
+
